@@ -39,97 +39,103 @@ app.get('/api/hello', (req, res) => {
 
 app.get('/api/myartlist', (req, res) => {
   res.json([{ 
-		title: 'blockchain stuff',
-		artist: 'Andy Blockchain',
-		creationDate: '10 May 2019',
-		timestamp: '1557490117',
-		media: 'digital',
-		description: 'Really nice outsider art of a digitial nature',
-		assetAddress: '0x???'
+		"title": "Filter",
+		"artist": "Josephine Bellini",
+		"creationDate": "2017",
+		"timestamp": "1557490117",
+		"media": "oil on canvas",
+		"description": "Bitcoin Filter Protecting from Inflation",
+		"assetAddress": "0x???",
+		"olContractUrl": "https://u0ykj38k1z:nN9-vf2mTaap3_L_7zuzFYe6D-nsrw_IFJ2ouHlI3y0@u0hypkfkj9-u0n69vd25o-openlaw.us-east-2-svcs.kaleido.io/login",
+		"imageFile": "filter.png"
   }]);
 });
 
 app.get('/api/artlistforsale', (req, res) => {
   res.json([
 	  { 
-	  	title: 'Blockchain Art 01',
-	  	artist: 'Andy Chainblock',
-	  	creationDate: '01 May 2019',
-	  	timestamp: '1556712589',
-	  	media: 'digital',
-	  	description: 'Really nice outsider art of a digitial nature 01',
-		  assetAddress: '0x???',
-		  sellerAddress: '0x???'
+	  	"title": "Portfolio: Acceptance, Canned, Filter, Nebula",
+		  "artist": "Josephine Bellini",
+	  	"creationDate": "2018",
+	  	"timestamp": "1556712589",
+		  "media": "oil on canvas",
+	  	"description": "Portfolio: Acceptance, Canned, Filter, Nebula",
+			"price": "1000",
+			"currency": "ETH",
+		  "assetAddress": "0x???",
+		  "olContractUrl": "https://u0ykj38k1z:nN9-vf2mTaap3_L_7zuzFYe6D-nsrw_IFJ2ouHlI3y0@u0hypkfkj9-u0n69vd25o-openlaw.us-east-2-svcs.kaleido.io/login",
+		  "imageFile": "portfolio.png",
+		  "sellerAddress": "0x???"
     },
 	  { 
-	  	title: 'Blockchain Art 02',
-	  	artist: 'Andy Chainblock',
-	  	creationDate: '02 May 2019',
-	  	timestamp: '1556798989',
-	  	media: 'digital',
-	  	description: 'Really nice outsider art of a digitial nature 02',
-		  assetAddress: '0x???',
-		  sellerAddress: '0x???'
+	  	"title": "Digital Currency",
+		  "artist": "Pixabay",
+	  	"creationDate": "2018",
+	  	"timestamp": "1556798989",
+	  	"media": "digital",
+	  	"description": "Bitcoin as a DIgital Currency",
+			"price": "1000",
+			"currency": "ETH",
+		  "assetAddress": "0x???",
+		  "olContractUrl": "https://u0ykj38k1z:nN9-vf2mTaap3_L_7zuzFYe6D-nsrw_IFJ2ouHlI3y0@u0hypkfkj9-u0n69vd25o-openlaw.us-east-2-svcs.kaleido.io/login",
+		  "imageFile": "bitcoin-3.jpg",
+		  "sellerAddress": "0x???"
     },
 	  { 
-	  	title: 'Blockchain Art 03',
-	  	artist: 'Andy Chainblock',
-	  	creationDate: '03 May 2019',
-	  	timestamp: '1556885389',
-	  	media: 'digital',
-	  	description: 'Really nice outsider art of a digitial nature 03',
-		  assetAddress: '0x???',
-		  sellerAddress: '0x???'
+	  	"title": "Blockchain Crypto Exchange",
+		  "artist": "Pixabay",
+	  	"creationDate": "2018",
+	  	"timestamp": "1556885389",
+	  	"media": "digital",
+	  	"description": "Blockchain cyrpto exchange",
+			"price": "1000",
+			"currency": "ETH",
+		  "assetAddress": "0x???",
+		  "olContractUrl": "https://u0ykj38k1z:nN9-vf2mTaap3_L_7zuzFYe6D-nsrw_IFJ2ouHlI3y0@u0hypkfkj9-u0n69vd25o-openlaw.us-east-2-svcs.kaleido.io/login",
+		  "imageFile": "bitcoin-1.jpg",
+		  "sellerAddress": "0x???"
     },
 	  { 
-	  	title: 'Blockchain Art 04',
-	  	artist: 'Andy Chainblock',
-	  	creationDate: '04 May 2019',
-	  	timestamp: '1556971789',
-	  	media: 'digital',
-	  	description: 'Really nice outsider art of a digitial nature 04',
-		  assetAddress: '0x???',
-		  sellerAddress: '0x???'
+	  	"title": "Bitcoin Exchange Network",
+		  "artist": "Pixabay",
+	  	"creationDate": "2018",
+	  	"timestamp": "1556971789",
+	  	"media": "digital",
+	  	"description": "Bitcoin Exchange Network",
+			"price": "1000",
+			"currency": "ETH",
+		  "assetAddress": "0x???",
+		  "olContractUrl": "https://u0ykj38k1z:nN9-vf2mTaap3_L_7zuzFYe6D-nsrw_IFJ2ouHlI3y0@u0hypkfkj9-u0n69vd25o-openlaw.us-east-2-svcs.kaleido.io/login",
+		  "imageFile": "blockchain.jpg",
+		  "sellerAddress": "0x???"
     },
 	  { 
-	  	title: 'Blockchain Art 05',
-	  	artist: 'Andy Chainblock',
-	  	creationDate: '05 May 2019',
-	  	timestamp: '1557058189',
-	  	media: 'digital',
-	  	description: 'Really nice outsider art of a digitial nature 05',
-		  assetAddress: '0x???',
-		  sellerAddress: '0x???'
+	  	"title": "Crypto Business",
+		  "artist": "Pixabay",
+	  	"creationDate": "2017",
+	  	"timestamp": "1557058189",
+	  	"media": "digital",
+	  	"description": "Crypto Business",
+			"price": "1000",
+			"currency": "ETH",
+		  "assetAddress": "0x???",
+		  "olContractUrl": "https://u0ykj38k1z:nN9-vf2mTaap3_L_7zuzFYe6D-nsrw_IFJ2ouHlI3y0@u0hypkfkj9-u0n69vd25o-openlaw.us-east-2-svcs.kaleido.io/login",
+		  "imageFile": "crypto-currency.jpg",
+		  "sellerAddress": "0x???"
     },
 	  { 
-	  	title: 'Blockchain Art 06',
-	  	artist: 'Andy Chainblock',
-	  	creationDate: '06 May 2019',
-	  	timestamp: '1557058189',
-	  	media: 'digital',
-	  	description: 'Really nice outsider art of a digitial nature 06',
-		  assetAddress: '0x???',
-		  sellerAddress: '0x???'
-    },
-	  { 
-	  	title: 'Blockchain Art 07',
-	  	artist: 'Andy Chainblock',
-	  	creationDate: '07 May 2019',
-	  	timestamp: '1557230989',
-	  	media: 'digital',
-	  	description: 'Really nice outsider art of a digitial nature 07',
-		  assetAddress: '0x???',
-		  sellerAddress: '0x???'
-    },
-	  { 
-	  	title: 'Blockchain Art 08',
-	  	artist: 'Andy Chainblock',
-	  	creationDate: '08 May 2019',
-	  	timestamp: '1557317389',
-	  	media: 'digital',
-	  	description: 'Really nice outsider art of a digitial nature 08',
-		  assetAddress: '0x???',
-		  sellerAddress: '0x???'
+	  	"title": "Bitcoin Cryptocurrency",
+		  "artist": "Pixabay",
+	  	"creationDate": "2018",
+	  	"timestamp": "1557058189",
+	  	"media": "digital",
+	  	"description": "Bitcoin Cryptocurrency",
+			"price": "1000",
+			"currency": "ETH",
+		  "assetAddress": "0x???",
+		  "olContractUrl": "https://u0ykj38k1z:nN9-vf2mTaap3_L_7zuzFYe6D-nsrw_IFJ2ouHlI3y0@u0hypkfkj9-u0n69vd25o-openlaw.us-east-2-svcs.kaleido.io/login",
+		  "imageFile": "bitcoin-2.jpg",
+		  "sellerAddress": "0x???"
     }
 	]);
 });
