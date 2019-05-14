@@ -34,7 +34,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 app.get('/api/hello', (req, res) => {
-  res.send({ express: 'Hello From Express' });
+  res.send({ express: 'Hello From BlockArt v 0.1.1' });
 });
 
 app.get('/api/myartlist', (req, res) => {
