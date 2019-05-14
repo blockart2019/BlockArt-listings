@@ -1,0 +1,81 @@
+web3 links
+=========================
+===== Web3 ========
+methode to list all transactions of an account ?
+https://github.com/ethereum/web3.js/issues/580
+
+Ethereum Tutorial: Sending Transaction via NodeJS Backend
+https://medium.com/coinmonks/ethereum-tutorial-sending-transaction-via-nodejs-backend-7b623b885707
+
+Node.JS Backend Service for Ethereum Dapp — SoTP Part 3
+https://medium.com/coinmonks/node-js-backend-service-for-ethereum-dapp-sotp-part-3-2d3aa5ec50e9
+
+Getting Started with ethereum blockchain development: part-1
+https://medium.com/coinmonks/getting-started-with-ethereum-blockchain-development-part-1-d6543b441bea
+
+Intro to Web3.js · Ethereum Blockchain Developer Crash Course
+http://www.dappuniversity.com/articles/web3-js-intro
+
+EthereumJS
+https://github.com/ethereumjs
+
+web3.js - Ethereum JavaScript API
+https://github.com/ethereum/web3.js/
+
+https://github.com/ConsenSys/Express-Web3-API/blob/master/server.js
+
+===== ART =========
+Blockchain Technology is Shaping the Art World through Non-Fungible Tokens
+https://www.auctionity.com/blockchain-technology-is-shaping-the-art-world-through-non-fungible-tokens/
+
+Blockchain Art Collective
+https://blockchainartcollective.com/
+
+The largest marketplace for crypto collectibles
+https://opensea.io/
+
+Build your own marketplace in minutes
+https://docs.opensea.io/
+
+
+===== OpenLaw =====
+Modernizing Art With Blockchains
+https://medium.com/@OpenLawOfficial/modernizing-art-with-blockchains-6cba4694833d
+
+The Purchase and Sale of Real Property on Ethereum
+https://media.consensys.net/the-purchase-and-sale-of-real-property-on-ethereum-55bdc289a7b5
+
+OpenLaw Tutorial: Blockchain-Enabled, Legally Enforceable Smart Contracts
+https://medium.com/@OpenLawOfficial/openlaw-tutorial-blockchain-enabled-legally-enforceable-smart-contracts-24d5654050fa
+
+Get Started With OpenLaw in Minutes — Build a complete Dapp with the OpenLaw API + Truffle + React.js.
+https://medium.com/@OpenLawOfficial/openlaw-api-tutorial-build-a-complete-dapp-with-the-openlaw-api-truffle-react-js-d064717ad41d
+
+Open Law - The End-to-End Purchase and Sale of Real Property
+https://youtu.be/nFTGd-nZjNg
+
+Modernizing Art With Blockchains
+https://youtu.be/IYjbAbImVpY
+
+SIMPLE REAL ESTATE CONTRACT (ETHEREUM TOKEN GENERATOR)
+https://app.openlaw.io/template/simple%20real%20estate%20contract%20(ethereum%20token%20generator)
+
+https://docs.openlaw.io/api-client/
+
+
+===== Kaleido Hosted Blockchain =====
+Kaleido Console: BlockArtBlockArt
+https://console.kaleido.io/environments/u0t09geili/u0hypkfkj9
+
+
+===== Microsoft Azure Hosting =====
+Microsoft Azure Portal
+https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Web%2Fsites
+
+Create a static HTML web app in Azure
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html
+
+Azure Sponsorships ($50 for 7 days)
+https://www.microsoftazuresponsorships.com/Balance#
+
+
