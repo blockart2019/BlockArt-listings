@@ -1,8 +1,14 @@
 {
   "name": "BlockArt-listings",
   "homepage": "http://blockart.be",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "gitsetup": "git remote add azure https://blockaart-api.scm.azurewebsites.net:443/blockaart-api.git",
+    "deploy": "git push azure",
+    "deploygh": "gh-pages -d build"
+  },
   "dependencies": {
     "ethereumjs-tx": "1.3.7",
     "ethereumjs-util": "5.2.0",
