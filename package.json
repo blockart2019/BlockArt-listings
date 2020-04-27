@@ -21,7 +21,7 @@
         "tslib": "1.11.1",
 
     "web3": "1.2.7",
-    "web3-shh": "1.2.6"
+    "web3-shh": "1.2.7"
   },
   "devDependencies": {
     "chainlink": "github:smartcontractkit/chainlink",
