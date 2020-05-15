@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "ethereumjs-tx": "2.1.2",
-    "ethereumjs-util": "7.0.0",
+    "ethereumjs-util": "7.0.1",
 
     "express": "4.17.1",
     "iconv-lite": "0.5.1",
