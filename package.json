@@ -25,6 +25,6 @@
   },
   "devDependencies": {
     "chainlink": "github:smartcontractkit/chainlink",
-    "gh-pages": "2.2.0"
+    "gh-pages": "3.0.0"
   }
 }
