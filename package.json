@@ -10,9 +10,9 @@
     "deploygh": "gh-pages -d build"
   },
   "dependencies": {
+    "elliptic": ">=6.5.3",
     "ethereumjs-tx": "2.1.2",
     "ethereumjs-util": "7.0.3",
-
     "express": "4.17.1",
     "iconv-lite": "0.6.2",
     "lodash": "4.17.19",
