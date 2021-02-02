@@ -10,7 +10,7 @@
     "deploygh": "gh-pages -d build"
   },
   "dependencies": {
-    "elliptic": "6.5.3",
+    "elliptic": "6.5.4",
     "ethereumjs-tx": "2.1.2",
     "ethereumjs-util": "7.0.8",
     "express": "4.17.1",
