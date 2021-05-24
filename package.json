@@ -14,7 +14,7 @@
     "ethereumjs-tx": "2.1.2",
     "ethereumjs-util": "7.0.10",
     "express": "4.17.1",
-    "iconv-lite": "0.6.2",
+    "iconv-lite": "0.6.3",
     "lodash": "4.17.21",
     "rxjs": "7.0.1",
     "serve-static": "1.14.1",
