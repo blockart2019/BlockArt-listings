@@ -20,7 +20,7 @@
     "serve-static": "1.15.0",
     "tslib": "2.4.0",
     "web3": "1.7.4",
-    "web3-shh": "1.7.3"
+    "web3-shh": "1.7.4"
   },
   "devDependencies": {
     "chainlink": "github:smartcontractkit/chainlink",
