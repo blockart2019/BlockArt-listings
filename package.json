@@ -19,7 +19,7 @@
     "rxjs": "7.5.7",
     "serve-static": "1.15.0",
     "tslib": "2.4.1",
-    "web3": "1.8.0",
+    "web3": "1.8.1",
     "web3-shh": "1.8.0"
   },
   "devDependencies": {
